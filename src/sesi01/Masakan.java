@@ -88,23 +88,5 @@ public class Masakan {
      
     }
     
-    public void bukaToko(){
-        // berikan diskon (potongan harga)
-        // sbesar 5000
-        // harga terupdate
-        // status siap jual menjadi true 
-        // tampilkan dalam variable yang tersusun
-        // gunakan sout
-        diskon = 5000;
-        hargaUpdate = harga - diskon;
-        statusSiapJual = true;
-        System.out.println("");
-        System.out.println("Saat Buka Toko");
-        System.out.println("==============");
-        System.out.println("Harga sebelum diskon : " + harga);
-        System.out.println("Diskon : " + diskon);
-        System.out.println("Harga Setelah Diskon : " + hargaUpdate );
-        System.out.println("Status Siap Jual : " + statusSiapJual);
-
-    }      
+ 
 }

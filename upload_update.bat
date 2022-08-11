@@ -1,3 +1,3 @@
 git add .
-git commit -m "update setelah fitur tambahan"
+git commit -m "sesudah revisi fungsi buka toko"
 git push -u origin main
